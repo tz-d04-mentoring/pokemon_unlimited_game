@@ -1,16 +1,18 @@
 # Plan
 
+
+## DATEN
+
+- X Charactere => Array von Objects
+- X Enemies => Array von Objects
+
+
 ## User Stories
 
 Must Haves (MVP - Minimum Viable Product):
 
-START DATEN:
-- X Charactere
-- X Enemies
-
 INPUTs:
-- X User bekommt bei Start eine Liste von Characteren
-- X User kann aus Liste von Characteren einen wählen
+- X User kann bei Start aus Liste von Characteren einen wählen
 
 GAME LOOP:
 - X User kann nun random auf einen Enemy treffen / startet Battle
