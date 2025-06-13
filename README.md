@@ -1,5 +1,9 @@
 # Plan
 
+Ein einfacher App-Plan:
+- User Stories: Was kann der User in meiner App machen? Liste einfach alles auf
+- Definiere die Daten, die in deiner App gebraucht werden (z.B. Array von Enemy Objects)
+
 
 ## Start Daten
 
