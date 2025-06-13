@@ -1,7 +1,7 @@
 # Plan
 
 
-## DATEN
+## Start Daten
 
 - X Charactere => Array von Objects
 - X Enemies => Array von Objects
