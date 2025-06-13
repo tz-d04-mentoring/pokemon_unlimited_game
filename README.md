@@ -24,7 +24,7 @@ GAME LOOP:
 - X Wenn einer tot, also keine Health mehr, dann stoppe Battle und gehe zum nächsten
 
 Silver Edition:
-- User kann selbst Weapon wählen für Attack
+- User kann Weapon wählen vor jeder Attack
 - Nach Battle: Bekomme Geld
 - Alle x battles soll ich zu einem Shop kommen
 - Im Shop bekomme ich Items angeboten und kann eines kaufen
