@@ -4,7 +4,6 @@ Ein einfacher App-Plan:
 - User Stories: Was kann der User in meiner App machen? Liste einfach alles auf
 - Definiere die Daten, die in deiner App gebraucht werden (z.B. Array von Enemy Objects)
 
-
 ## Start Daten
 
 - X Charactere => Array von Objects
@@ -32,3 +31,5 @@ Silver Edition:
 
 Gold Edition:
 - Kann mehr als einen Character bei Start wählen
+
+
